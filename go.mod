@@ -130,6 +130,8 @@ replace (
 	github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.43.0-rc3.0.20220213051416-1fab40159cee
 	// Use osmosis fork of iavl
 	github.com/cosmos/iavl => github.com/osmosis-labs/iavl v0.17.3-osmo-v1
+    // Use osmosis fork of wasmd
+	github.com/CosmWasm/wasmd => github.com/osmosis-labs/wasmd v0.23.0-fast
 	// Use osmosis fork of ibc-go
 	github.com/cosmos/ibc-go/v2 => github.com/osmosis-labs/ibc-go/v2 v2.0.2-osmo
 	// use cosmos-compatible protobufs

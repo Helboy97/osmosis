@@ -799,6 +799,8 @@ github.com/osmosis-labs/iavl v0.17.3-osmo-v1 h1:orHUut98Miu2+bsFiNZJ29B3ogrbiBbQ
 github.com/osmosis-labs/iavl v0.17.3-osmo-v1/go.mod h1:lJEOIlsd3sVO0JDyXWIXa9/Ur5FBscP26zJx0KxHjto=
 github.com/osmosis-labs/ibc-go/v2 v2.0.2-osmo h1:XyYyDTjPIu7qX2nhQp9mboj7Pa9FEnjg1RXw73Ctv5U=
 github.com/osmosis-labs/ibc-go/v2 v2.0.2-osmo/go.mod h1:XUmW7wmubCRhIEAGtMGS+5IjiSSmcAwihoN/yPGd6Kk=
+github.com/osmosis-labs/wasmd v0.23.0-fast h1:H5me78YogwGMIHf4Zm6JoIyvgyFKW4mIWY1LAgS5eho=
+github.com/osmosis-labs/wasmd v0.23.0-fast/go.mod h1:ku5ZRcrrlxUu01Bu5rE4HMnhwSh3peE8FhJh2fmfQGQ=
 github.com/otiai10/copy v1.6.0 h1:IinKAryFFuPONZ7cm6T6E2QX/vcJwSnlaA5lfoaXIiQ=
 github.com/otiai10/copy v1.6.0/go.mod h1:XWfuS3CrI0R6IE0FbgHsEazaXO8G0LpMp9o8tos0x4E=
 github.com/otiai10/curr v0.0.0-20150429015615-9b4961190c95/go.mod h1:9qAhocn7zKJG+0mI8eUu6xqkFDYS2kb2saOteoSB3cE=
